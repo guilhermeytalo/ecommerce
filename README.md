@@ -71,3 +71,4 @@ REQUISITOS EXTRAS
 
 ### Deploy
 Você pode ver o site em produção clicando [aqui](https://espacovidaecommerce.vercel.app/).
+> Lembre-se de estar rodando o yarn server para que o site funcione corretamente.
