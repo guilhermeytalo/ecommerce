@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "id": 425,
+      "common_name": "flowering-maple",
+      "scientific_name": [
+        "Abutilon hybridum"
+      ],
+      "other_name": [],
+      "cycle": "Perennial",
+      "watering": "Frequent",
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "inclusion_date": "2024-01-10",
+      "price": 12.34,
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/425_abutilon_hybridum/og/24527654869_ac712f58c7_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/425_abutilon_hybridum/regular/24527654869_ac712f58c7_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/425_abutilon_hybridum/medium/24527654869_ac712f58c7_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/425_abutilon_hybridum/small/24527654869_ac712f58c7_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/425_abutilon_hybridum/thumbnail/24527654869_ac712f58c7_b.jpg"
+      }
+    },
+    {
+      "id": 426,
+      "common_name": "flowering-maple",
+      "scientific_name": [
+        "Abutilon hybridum 'Bella Red'"
+      ],
+      "other_name": [],
+      "cycle": "Perennial",
+      "watering": "Average",
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "inclusion_date": "2024-01-12",
+      "price": 15.67,
+      "default_image": {
+        "license": 451,
+        "license_name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "original_url": "https://perenual.com/storage/species_image/426_abutilon_hybridum_bella_red/og/abutilon-mallow-flower-red.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/426_abutilon_hybridum_bella_red/regular/abutilon-mallow-flower-red.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/426_abutilon_hybridum_bella_red/medium/abutilon-mallow-flower-red.jpg",
+        "small_url": "https://perenual.com/storage/species_image/426_abutilon_hybridum_bella_red/small/abutilon-mallow-flower-red.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/426_abutilon_hybridum_bella_red/thumbnail/abutilon-mallow-flower-red.jpg"
+      }
+    },
+    {
+      "id": 427,
+      "common_name": "flowering-maple",
+      "scientific_name": [
+        "Abutilon 'Moonchimes'"
+      ],
+      "other_name": [],
+      "cycle": "Perennial",
+      "watering": "Average",
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "inclusion_date": "2024-01-13",
+      "price": 18.90,
+      "default_image": {
+        "license": 45,
+        "license_name": "Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+        "original_url": "https://perenual.com/storage/species_image/427_abutilon_moonchimes/og/Abutilon_x_hybridum_27Moonchimes27_Flower_2800px.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/427_abutilon_moonchimes/regular/Abutilon_x_hybridum_27Moonchimes27_Flower_2800px.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/427_abutilon_moonchimes/medium/Abutilon_x_hybridum_27Moonchimes27_Flower_2800px.jpg",
+        "small_url": "https://perenual.com/storage/species_image/427_abutilon_moonchimes/small/Abutilon_x_hybridum_27Moonchimes27_Flower_2800px.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/427_abutilon_moonchimes/thumbnail/Abutilon_x_hybridum_27Moonchimes27_Flower_2800px.jpg"
+      }
+    },
+    {
+      "id": 747,
+      "common_name": "Joseph's coat",
+      "scientific_name": [
+        "Alternanthera ficoidea"
+      ],
+      "other_name": [],
+      "cycle": "Herbaceous Perennial",
+      "watering": "Frequent",
+      "sunlight": [
+        "full sun",
+        "part shade"
+      ],
+      "inclusion_date": "2024-01-15",
+      "price": 21.23,
+      "default_image": {
+        "license": 4,
+        "license_name": "Attribution License",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/747_alternanthera_ficoidea/og/48756446498_fc5901c40d_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/747_alternanthera_ficoidea/regular/48756446498_fc5901c40d_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/747_alternanthera_ficoidea/medium/48756446498_fc5901c40d_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/747_alternanthera_ficoidea/small/48756446498_fc5901c40d_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/747_alternanthera_ficoidea/thumbnail/48756446498_fc5901c40d_b.jpg"
+      }
+    },
+    {
+      "id": 728,
+      "common_name": "aloe",
+      "scientific_name": [
+        "Aloe vera"
+      ],
+      "other_name": [],
+      "cycle": "Herbaceous Perennial",
+      "watering": "Minimum",
+      "sunlight": [
+        "full sun"
+      ],
+      "inclusion_date": "2024-01-11",
+      "price": 21.90,
+      "default_image": {
+        "license": 5,
+        "license_name": "Attribution-ShareAlike License",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "original_url": "https://perenual.com/storage/species_image/728_aloe_vera/og/52619084582_6ebcfe6a74_b.jpg",
+        "regular_url": "https://perenual.com/storage/species_image/728_aloe_vera/regular/52619084582_6ebcfe6a74_b.jpg",
+        "medium_url": "https://perenual.com/storage/species_image/728_aloe_vera/medium/52619084582_6ebcfe6a74_b.jpg",
+        "small_url": "https://perenual.com/storage/species_image/728_aloe_vera/small/52619084582_6ebcfe6a74_b.jpg",
+        "thumbnail": "https://perenual.com/storage/species_image/728_aloe_vera/thumbnail/52619084582_6ebcfe6a74_b.jpg"
+      }
+    }
+  ],
+  "to": 5,
+  "per_page": 5,
+  "current_page": 1,
+  "from": 1,
+  "last_page": 1,
+  "total": 5
+}
